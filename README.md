@@ -1,1 +1,3 @@
 # Favorite Places
+
+A React Native travel app project created using <a href="https://firebase.google.com/">Firebase</a>, <a href="https://github.com/react-native-community/react-native-image-picker">react-native-image-picker</a>, <a href="https://github.com/react-native-community/react-native-maps">react-native-maps</a>, <a href="https://github.com/wix/react-native-navigation">react-native-navigation</a>, <a href="https://github.com/oblador/react-native-vector-icons">react-native-vector-icons</a>, <a href="https://github.com/reduxjs/redux">redux</a> and <a href="https://github.com/reduxjs/redux-thunk">redux-thunk</a>
